@@ -12,4 +12,4 @@ gerou(marcos,sabrina).
 
 %REGRAS
 ancestral(X,Y):-gerou(X,Y).
-amcestral(X,Y):-ancestral(X,Z),gerou(Z,Y).
+ancestral(X,Y):-ancestral(X,Z),gerou(Z,Y).

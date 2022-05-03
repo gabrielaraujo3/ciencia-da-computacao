@@ -2,10 +2,10 @@
 gerou(carlos,fabiana).
 gerou(carlos,felipe).
 gerou(maria,carlos).
-gerou(antônio,carlos).
-gerou(maria,cecília).
-gerou(antônio,cecília).
-gerou(cecília,aline).
+gerou(antonio,carlos).
+gerou(maria,cecilia).
+gerou(antonio,cecilia).
+gerou(cecilia,aline).
 gerou(marcos,aline).
 gerou(aline,camila).
 gerou(marcos,sabrina).
